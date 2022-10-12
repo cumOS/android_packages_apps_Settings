@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2017-2018 riceDroid Android Project
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+          http://www.apache.org/licenses/LICENSE-2.0
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<vector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="24.0dp"
+    android:height="24.0dp">
+    <group
+        android:scaleX="0.1"
+        android:scaleY="-0.1"
+        android:translateY="859">
+        <path
+            android:pathData="M7075 8025c-649 -92 -1464 -424 -1906 -776 -409 -326 -613 -680 -659 -1149 -18 -180 1 -362 71 -654 23 -97 29 -140 24 -175 -11 -75 -61 -198 -141 -346 -224 -419 -235 -454 -269 -870 -30 -377 -53 -501 -110 -614 -68 -135 -195 -223 -396 -275 -264 -68 -436 -60 -974 49 -333 67 -429 79 -570 72 -438 -23 -736 -249 -884 -669 -56 -161 -88 -384 -111 -788 -31 -531 -72 -772 -155 -914 -14 -25 -53 -70 -85 -100 -103 -95 -218 -128 -580 -166 -358 -39 -385 -58 -111 -81 185 -15 516 -7 601 16 119 31 205 80 295 166 203 195 292 414 406 999 71 363 130 563 206 700 22 39 69 97 117 145 104 103 144 119 301 119 126 0 134 -3 340 -91 459 -197 782 -285 1105 -300 388 -17 687 92 935 341 266 266 426 621 570 1262 55 242 85 335 134 411 49 75 102 120 160 132 55 11 78 8 197 -30 235 -73 510 -98 730 -65 267 39 548 171 798 375 423 342 903 1076 1121 1711 99 289 138 494 139 725 1 164 -8 226 -46 340 -89 263 -293 427 -610 491 -115 23 -504 29 -643 9z"
+            android:fillColor="#000000" />
+    </group>
+</vector>
